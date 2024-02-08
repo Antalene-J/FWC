@@ -935,9 +935,9 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 Package: wrapfig 2003/01/31  v 3.6
 )
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 85.
+h' as default language. on input line 84.
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 8
-5.
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
@@ -949,47 +949,47 @@ LaTeX Warning: Unused global option(s):
 No file main.aux.
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 85.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 84.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-85.
+84.
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 84.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-85.
+84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 84.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-85.
+84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 84.
 LaTeX Font Info:    Trying to load font information for U+txexa on input line 8
-5.
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -997,19 +997,19 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 85.
+or `english'. on input line 84.
 \symgns@font=\mathgroup12
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/txr/m/n --> TS1/txr/b/n on input line 85.
-Package gensymb Info: Math companion symbols declared on input line 85.
-LaTeX Info: Redefining \degree on input line 85.
-LaTeX Info: Redefining \celsius on input line 85.
+(Font)                  TS1/txr/m/n --> TS1/txr/b/n on input line 84.
+Package gensymb Info: Math companion symbols declared on input line 84.
+LaTeX Info: Redefining \degree on input line 84.
+LaTeX Info: Redefining \celsius on input line 84.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 85.
-LaTeX Info: Redefining \ohm on input line 85.
-Package gensymb Info: Using \textohm for \ohm on input line 85.
-LaTeX Info: Redefining \micro on input line 85.
-Package gensymb Info: Using \textmu for \micro on input line 85.
+erthousand on input line 84.
+LaTeX Info: Redefining \ohm on input line 84.
+Package gensymb Info: Using \textohm for \ohm on input line 84.
+LaTeX Info: Redefining \micro on input line 84.
+Package gensymb Info: Using \textmu for \micro on input line 84.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1045,7 +1045,7 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 85.
+Package hyperref Info: Link coloring OFF on input line 84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1058,51 +1058,51 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count373
 )
-LaTeX Info: Redefining \ref on input line 85.
-LaTeX Info: Redefining \pageref on input line 85.
-LaTeX Info: Redefining \nameref on input line 85.
+LaTeX Info: Redefining \ref on input line 84.
+LaTeX Info: Redefining \pageref on input line 84.
+LaTeX Info: Redefining \nameref on input line 84.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 \c@lstlisting=\count374
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 8
-7.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 8
-7.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 8
-7.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 8
-7.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 87
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 86
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 87
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 86
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 8
-7.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
@@ -1111,21 +1111,28 @@ File: ts1txr.fd 2000/12/15 v3.1
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17.28> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 91.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 90.
+
+Overfull \hbox (16.62665pt too wide) in paragraph at lines 116--120
+[]\OT1/txr/m/n/12 Find the equa-tion of plane pass-ing through the points $\OML
+/txmi/m/it/12 A []$\OT1/txr/m/n/12 , $\OML/txmi/m/it/12 B []$
+ []
+
+
+Overfull \hbox (36.37062pt too wide) in paragraph at lines 116--120
+\OT1/txr/m/n/12 and $\OML/txmi/m/it/12 C []$ \OT1/txr/m/n/12 and hence find the
+ value of$\OML/txmi/m/it/12 ^^U$ \OT1/txr/m/n/12 for which $\OML/txmi/m/it/12 A
+ []$\OT1/txr/m/n/12 , $\OML/txmi/m/it/12 B []$\OT1/txr/m/n/12 ,
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
-
+Overfull \hbox (19.31555pt too wide) in paragraph at lines 176--178
+[]\OT1/txr/m/n/12 Using in-te-gra-tion find the area of the re-gion $[]$. 
  []
 
-[3]
-Overfull \hbox (10.48672pt too wide) in paragraph at lines 218--222
-\OT1/txr/m/n/12 ma-tri-ces, find the charges of typ-ing one En-glish and one Hi
-ndi page sep-a-rately.
- []
-
-[4] [5] (./main.aux)
+[3] [4] [5] (./main.aux)
 
 Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
@@ -1133,16 +1140,16 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  57DF7627A2C1F2AC3DCB72BA8F4ADDEC;896.
+(rerunfilecheck)             After:  01C2F58B09281C0A92E1882A8CFC038A;896.
  ) 
 Here is how much of TeX's memory you used:
- 30013 strings out of 478287
- 587732 string characters out of 5849290
- 904086 words of memory out of 5000000
+ 30004 strings out of 478287
+ 587619 string characters out of 5849290
+ 922068 words of memory out of 5000000
  47621 multiletter control sequences out of 15000+600000
  507577 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,20n,104p,406b,910s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,20n,104p,508b,908s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type
@@ -1151,10 +1158,10 @@ onts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 68128 bytes).
+Output written on main.pdf (5 pages, 67491 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
- 60 named destinations out of 1000 (max. 500000)
+ 130 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 51 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
