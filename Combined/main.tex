@@ -89,9 +89,9 @@
 
 \section{Vectors}
 	\item If vectors $\overrightarrow{a}$ and $\overrightarrow{b}$ are such that
- $\mydet{\overrightarrow{a}} = \frac{1}{2}$, $\mydet{\overrightarrow{b}} = \frac{4}{\sqrt{3}}$
- and $\mydet{\overrightarrow{a} \times \overrightarrow{b}} = \frac{1}{\sqrt{3}}$, then find 
- $\mydet{\overrightarrow{a}.\overrightarrow{b}}$.
+ $\abs{\overrightarrow{a}} = \frac{1}{2}$, $\abs{\overrightarrow{b}} = \frac{4}{\sqrt{3}}$
+ and $\abs{\overrightarrow{a} \times \overrightarrow{b}} = \frac{1}{\sqrt{3}}$, then find 
+ $\abs{\overrightarrow{a}.\overrightarrow{b}}$.
 
 	\item If $\overrightarrow{a}$ and $\overrightarrow{b}$ are unit vectors, then what is the angle between 
 $\overrightarrow{a}$ and $\overrightarrow{b}$ for $\overrightarrow{a} - \sqrt{2}\overrightarrow{b}$ to be an unit vector ?
@@ -165,7 +165,7 @@ find the image of the point $A$ in the line $BC$.
 	\item Differentiate $(\sin 2x)^x + \sin^{-1} \sqrt{3x}$ with respect to $x$.
 	
 	\item Differentiate $\tan^{-1} \brak{\frac{\sqrt{1 + x^2}-\sqrt{1-x^2}}{\sqrt{1+x^2}+\sqrt{1-x^2}}}$
-with respect to $\cos^-1 x^2$.
+with respect to $\cos^{-1} x^2$.
 
 	\item Determine the intervals in which the function $f (x) = x^4 - 8x^3 + 22x^2 - 24x+21$ is strictly increasing or strictly decreasing.
 
@@ -175,26 +175,26 @@ with respect to $\cos^-1 x^2$.
 	
 	
 	\item If $\cos(a+y) = \cos y$ then prove that
-$\frac{dy}{dx} = \frac{\cos^{2}(a+y)}{\sin a}$. 
+$\dfrac{dy}{dx} = \frac{\cos^{2}(a+y)}{\sin a}$. 
 Hence show that \\
-$\sin a \frac{d^{2}y}{dx^{2}} + \sin 2(a+y)\frac{dy}{dx} = 0 $.
+$\sin a \dfrac{d^{2}y}{dx^{2}} + \sin 2(a+y)\dfrac{dy}{dx} = 0 $.
 
-	\item Find $\frac{dy}{dx}$ if $y = \sin^{-1}\sbrak{\frac{6x - 4\sqrt{1-4x^2}}{5}}$ 
+	\item Find $\dfrac{dy}{dx}$ if $y = \sin^{-1}\sbrak{\frac{6x - 4\sqrt{1-4x^2}}{5}}$ 
 
 	\item Find the equation of the tangents to the curve $y = x^3 + 2x - 4$ which are perpendicular to line $x + 14y + 3 = 0$
 	
 	\item Show that semi-vertical angle of a cone of maximum volume and given slant height is
-$\cos^{-1}\left( \frac{1}{\sqrt{3}} \right)$
+$\cos^{-1}\brak{ \frac{1}{\sqrt{3}}}$
 
 	\item Prove that $ y = \frac{4\sin \theta}{2+ \cos \theta} - \theta$ ia an increasing function of $\theta$ on $\sbrak{0,\frac{\pi}{2}}$.
 
 
 
 \section{Martrices}
-	\item If $A$ is a square matrix such that $\mydet{A} = 5$, write the value of 
-$\mydet{AA^{\text{T}}}$
+	\item If $A$ is a square matrix such that $\abs{A} = 5$, write the value of 
+$\abs{AA^{\text{T}}}$
 
-	\item $A = \myvec{1 & 2 \\ 3 & -1}$ and $B = \myvec{1 & -4 \\ 3 & -2}$, find $\mydet{AB}$.
+	\item $A = \myvec{1 & 2 \\ 3 & -1}$ and $B = \myvec{1 & -4 \\ 3 & -2}$, find $\abs{AB}$.
 
 	\item If $A = \myvec{0 & 3 \\ 2 & -5}$ and $KA = \myvec{0 & 4a \\ -8 & 5b}$ find the values of $k$ and $a$.
 
@@ -218,7 +218,7 @@ $\mydet{AA^{\text{T}}}$
 
 	\item If $A = \myvec{\cos \alpha & \sin \alpha\\ -\sin \alpha & \cos \alpha}$, find $\alpha$ satisfying $0<\alpha<\frac{1}{2}$ when $A + A^{\text{T}} = \sqrt{2}I_{2}$, where $A^{\text{T}}$ is transpose of $A$
 
-	\item If $A$ is a $3\times3$ matrix and $\mydet{3A} = k \mydet{A}$ then write the value of $k$
+	\item If $A$ is a $3\times3$ matrix and $\abs{3A} = k \abs{A}$ then write the value of $k$
 
 	\item Using properties of determinants, prove that
 	\begin{align*}
@@ -246,7 +246,7 @@ and $A^3-6A^2+7A+kI_3=0$ find $k$.
 
 	\item Evaluate : $ \int_0^1 \cot^{-1}\brak{1 - x + x^2} dx$
 
-	\item Solve the differential equation: $(x + 1) \frac{dy}{dx} - y = e^{3x} (x + 1)^3$ 
+	\item Solve the differential equation: $(x + 1) \dfrac{dy}{dx} - y = e^{3x} (x + 1)^3$ 
 
 	\item Solve the differential equation : $2y e^{\frac{x}{y}}dx + \brak{y - 2x e^{\frac{x}{y}}}dy = 0$
 
@@ -264,7 +264,9 @@ and $A^3-6A^2+7A+kI_3=0$ find $k$.
 	\item Find : $\int (x+3)\sqrt{3 - 4x - x^2} dx$\\
 
 	\item Find the particular solution of difference equation :\\
- $\frac{dy}{dx} = - \frac{x + y\cos x}{1 + \sin x}$ \\
+	\begin{align}
+ 		\dfrac{dy}{dx} = - \frac{x + y\cos x}{1 + \sin x}
+ 	\end{align}
  given that $y = 1$ when $x = 0$.
 
 	\item Find the particualr solution of the differential equation
@@ -365,7 +367,7 @@ How mcuh less was charged from ths poor boy? which values are reflected in this 
 	\tan^{-1} \brak{\frac{6x-8x^{3}}{1-12x^{2}}} - \tan^{-1} \brak{\frac{4x}{1-4x^{2}}} = \tan^{-1}2x;
 	\end{align*}
 	\begin{align*}
-		\mydet{2x} < \frac{1}{\sqrt{3}}
+		\abs{2x} < \frac{1}{\sqrt{3}}
 	\end{align*}
 
 	
